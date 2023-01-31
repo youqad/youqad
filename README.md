@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Younesse Kaddar. I'm a theoretical computer science PhD student at the University of Oxford, working on programming language semantics, Bayesian probabilistic programming, and category theory. 
+Welcome to my GitHub profile! 
+
 <!--
 **youqad/youqad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
